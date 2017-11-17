@@ -1,0 +1,1 @@
+## Diretório necessário para armazenamento das músicas temporárias
